@@ -1,0 +1,81 @@
+<html>
+
+<head>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
+</head>
+    <style>
+
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    background: #AFF7F0;
+     text-align: center;
+     background-size: 200% 100% !important;
+    animation: move 10s ease infinite;
+    transform: translate3d(0, 0, 0);
+    background: linear-gradient(45deg, #49D49D 10%, #A2C7E5 90%);
+    height: 100vh
+}
+
+
+h1 {
+  color: black;
+  margin-left: 20px;
+}
+input[type=text] {
+     border: 4px solid #000;
+     border-radius: 20px;
+     width: 900px;
+     height: 90px;
+}
+
+.button {
+  @include z-2;
+  background: #F9F9F9;
+  background-position: 0 200px; 
+  height: 56px;
+  width: 120px;
+  margin: auto;
+  position: absolute;
+  left: 0; right: 0;
+  top: 30%;
+  border-radius: 28px;
+  transition: width .3s, border-radius .3s, height .3s .1s, top .3s .1s, background .0s .6s;
+
+  form {
+  margin: 12% auto;
+  width: 19em;
+  text-align: center;
+  position: relative;
+  -webkit-animation: moveDown .3s;
+  -moz-animation: moveDown .3s;
+  animation: moveDown .3s;
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+
+div.image {
+   content:url(http://placehold.it/350x150);
+}​
+
+    </style>
+
+
+<h1>Welcome to Chitter!</h1>
+
+<div class="image"></div>​
+<form action="/sign_up" method="post">
+    <h2>Sign Up!</h2><br/>
+
+    <span class="input"></span>
+    <input type="name" name="name" placeholder="Name" title="Format: Xx[space]Xx" autofocus autocomplete="off" required pattern="^\w+\s\w+$" />
+    <span class="input"></span>
+    <input type="username" name="username" placeholder="Username">
+    <input type="email" name="email" placeholder="Email">
+    
+    <input type="password" name="password" placeholder="Password">
+    <input type="password confirmation" name="password confirmation" placeholder="Password confirmation">
+    <button class="button">Submit</button>
+  
+</html>
+ 
