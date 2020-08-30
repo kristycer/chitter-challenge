@@ -2,9 +2,9 @@ Chitter Challenge
 =================
 
 
-![welcome page](img/page1.png)
+![page1](img/page1.png "welcome")
 
-![page2](https://github.com/kristycer/chitter-challenge/blob/master/img/page2.png)
+![page2](https://github.com/kristycer/chitter-challenge/blob/master/img/page2.png "view")
 
 
 
