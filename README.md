@@ -4,9 +4,11 @@ Chitter Challenge
 
 ![welcome page](https://github.com/kristycer/chitter-challenge/blob/master/img/page1.png)
 
-<!-- <img src="img/page1.png" height="400" alt="img"/> -->
+![page2](https://github.com/kristycer/chitter-challenge/blob/master/img/page2.png)
 
-<img src="img/page2.png" height="400" alt="Add peeps"/> <img src="img/page3.png" height="400" alt="View"/>
+
+
+<!-- <img src="img/page2.png" height="400" alt="Add peeps"/> <img src="img/page3.png" height="400" alt="View"/> --> -->
 
 Features:
 -------
