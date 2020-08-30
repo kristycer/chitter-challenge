@@ -4,7 +4,9 @@ Chitter Challenge
 
 ![alt text](img/page1.png "welcome")
 
-![alt text](https://github.com/kristycer/chitter-challenge/blob/master/img/page2.png "view")
+![alt text](https://github.com/kristycer/chitter-challenge/blob/master/img/page2.png "add")
+
+![alt text](img/page3.png "view")
 
 
 
