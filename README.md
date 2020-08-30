@@ -2,9 +2,8 @@ Chitter Challenge
 =================
 
 
-![page1.png](https://github.com/kristycer/chitter-challenge/blob/master/img/page1.png)
-
-<!-- <img src="img/page1.png" height="400" alt="img"/>  -->
+<!-- ![page1.png](https://github.com/kristycer/chitter-challenge/blob/master/img/page1.png)  -->
+<img src="img/page1.png" height="400" alt="img"/>
 
 
 
