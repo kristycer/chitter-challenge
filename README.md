@@ -6,7 +6,7 @@ Chitter Challenge
 
 <!-- <img src="img/page1.png" height="400" alt="img"/> -->
 
-
+<img src="img/page2.png" height="400" alt="Add peeps"/> <img src=“img/page3.png" height="400" alt="View"/>
 
 Features:
 -------
