@@ -1,6 +1,8 @@
 Chitter Challenge
 =================
-![page1.png](https://github.com/kristycer/chitter-challenge/blob/master/img/page1.svg)
+
+
+![page1.png](https://github.com/kristycer/chitter-challenge/blob/master/img/page1.png)
 
 Features:
 -------
